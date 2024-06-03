@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0](https://github.com/taikoxyz/taiko-mono/compare/taikoon-ui-v1.0.0...taikoon-ui-v1.1.0) (2024-06-03)
+
+
+### Features
+
+* **nfts:** adapt taikoon-ui to the new package structure ([#17271](https://github.com/taikoxyz/taiko-mono/issues/17271)) ([6b7f44a](https://github.com/taikoxyz/taiko-mono/commit/6b7f44a2e2e6dc9ee63a565c95ba5023e66940c6))
+* **nfts:** taikoon ui fixes, v3 ([#17218](https://github.com/taikoxyz/taiko-mono/issues/17218)) ([e0f064a](https://github.com/taikoxyz/taiko-mono/commit/e0f064aa7e288c17d23906127e6a77da5f81feda))
+* **nfts:** taikoon-ui updated list of blocked countries ([#17403](https://github.com/taikoxyz/taiko-mono/issues/17403)) ([78153ce](https://github.com/taikoxyz/taiko-mono/commit/78153ced57ddfb331e9ed3186bbf8edc675e8251))
+* **nfts:** ui-lib integration into taikoon-ui ([#17220](https://github.com/taikoxyz/taiko-mono/issues/17220)) ([849a3c4](https://github.com/taikoxyz/taiko-mono/commit/849a3c446936285c621176e332d1136c1f4ddb6b))
+* **taikoon:** geoblocking ([#17201](https://github.com/taikoxyz/taiko-mono/issues/17201)) ([6658f6a](https://github.com/taikoxyz/taiko-mono/commit/6658f6ae553c3c02560a9fa622f1dd3f938c119d))
+* **taikoon:** ipfs integration with 4everland ([#17119](https://github.com/taikoxyz/taiko-mono/issues/17119)) ([46670cf](https://github.com/taikoxyz/taiko-mono/commit/46670cfb8f087c87c42799d7ded3a0dc1258a963))
+
+
+### Bug Fixes
+
+* **nfts:** taikoon ui taiko-mainnet deployment ([#17405](https://github.com/taikoxyz/taiko-mono/issues/17405)) ([db40dbd](https://github.com/taikoxyz/taiko-mono/commit/db40dbdf5207dbcaad630d010728a621a644898d))
+
 ## 1.0.0 (2024-05-15)
 
 
