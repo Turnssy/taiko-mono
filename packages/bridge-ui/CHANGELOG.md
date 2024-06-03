@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.12.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.11.0...bridge-ui-v2.12.0) (2024-06-03)
+
+
+### Features
+
+* **bridge-ui:** rounding fix. ([#17409](https://github.com/taikoxyz/taiko-mono/issues/17409)) ([eac7434](https://github.com/taikoxyz/taiko-mono/commit/eac743445b9a1c21ed03aede036098ba3add261a))
+* **bridge-ui:** update usdc wording, add minimum fee check ([#17419](https://github.com/taikoxyz/taiko-mono/issues/17419)) ([07211da](https://github.com/taikoxyz/taiko-mono/commit/07211da83c9f5ca782fc5d9a02680968bf81ee24))
+
+
+### Bug Fixes
+
+* **bridge-ui:** small fixes ([#17375](https://github.com/taikoxyz/taiko-mono/issues/17375)) ([5236d0a](https://github.com/taikoxyz/taiko-mono/commit/5236d0a50a82e3915eb955962ccc930110d6274e))
+
 ## [2.11.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.10.1...bridge-ui-v2.11.0) (2024-05-27)
 
 
